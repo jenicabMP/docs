@@ -29,10 +29,10 @@ One of the key functions of mParticle is to receive your data from wherever it o
   * Data feeds of any other data you want to send into mParticle. This could be data you have collected yourself or from a feed partner. Once configured, feed inputs are listed in **SETUP > Inputs** on the FEEDS tab.
 
 * Outputs may be configured for events, audiences, cookie syncs, or data subject requests depending on what the output supports. You can see the list of configured outputs in **SETUP > Outputs** or **SETUP > Data Warehouses**. Outputs include: 
-* Analytics partners such as Indicative  
-* Advertising partners such as Facebook  
-* In-app messaging partners such as Braze  
-* Data Warehouse partners, such as Amazon Redshift, Google BigQuery, or Snowflake 
+  * Analytics partners such as Indicative  
+  * Advertising partners such as Facebook  
+  * In-app messaging partners such as Braze  
+  * Data Warehouse partners, such as Amazon Redshift, Google BigQuery, or Snowflake 
 
 To get started with mParticle, you need some data, which means you need to create at least one input.
 
